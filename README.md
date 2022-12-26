@@ -5,6 +5,8 @@
 - You can still find some of my projects and contributions here on GitHub 👾!
 
 ## Projects
+- [Scrimba Discord Onboarding Bot] (private repo 🔑)
+- [Base16 Builder](https://github.com/base16-builder/base16-builder)
 - [Password Generator](https://github.com/bookercodes/password-generator-tool) A humble password generator that later became part of [Privacy Tools](https://www.privacytools.io/)
 - [Memento](https://github.com/bookercodes/memento) Generate and verify ephemeral tokens (like password reset tokens)
 - [Mongoose Extract Duplicate Field](https://github.com/bookercodes/mongoose-extract-duplicate-field) Extract the name of a duplicate field 
@@ -22,4 +24,3 @@
 - [Parallel Parking Simulator](https://github.com/bookercodes/parallel-parking-simulator-lol)
 - [Tool to pick random Tweet with hashtag](https://github.com/bookercodes/hashtag-analyser)
 - [GitHub Unstar All](https://github.com/bookercodes/github-unstar-all)
-
